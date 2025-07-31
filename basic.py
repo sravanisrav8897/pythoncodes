@@ -7,6 +7,12 @@ print(float)
 name="sravani"
 print(name)
 
+int=5
+print(int)
+
+float=9.0
+print(str(float))
+
 number=[1,2,3,4,5]
 print(number)
 
