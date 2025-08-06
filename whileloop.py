@@ -56,7 +56,7 @@ while i < 10:
     print(i)
 
 
-count = 1
+count = 0
 while count <= 10:
     if count == 5:
         print("Breaking at 5")

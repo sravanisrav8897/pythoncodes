@@ -1,5 +1,5 @@
 
-num=8
+num=80
 if num%2==0:
     print("Even number")
 

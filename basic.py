@@ -4,7 +4,7 @@ print(number)
 float=7.9
 print(float)
 
-name="sravani"
+name="sravanis"
 print(name)
 
 int=5
