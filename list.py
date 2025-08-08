@@ -101,3 +101,10 @@ for row in matrix:
 
 squares = [x*x for x in range(1, 6)]
 print(squares)         
+
+name=input("enter a name: ")
+palindrome=name[::-1]
+if name==palindrome:
+    print("name is a palindrome")
+else:
+    print("not a palindrome")

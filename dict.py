@@ -113,3 +113,12 @@ count = {}
 for char in word:
     count[char] = count.get(char, 0) + 1
 print(count)
+
+
+contacts={"sravani":9346107835,"pravallika":8796654345,"pavan":8756347834,"krishna":9876567854,"rani":6785456789}
+print(contacts)
+search=input("Enter the search one: ")
+if search in contacts:
+    print(contacts[search])
+else:
+    print("this name is not in the contacts list")
